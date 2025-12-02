@@ -195,7 +195,7 @@ Sometimes a “simple” LFI or upload bug is just the first step. 😉
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=CerberusMrX&icon=2&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=CerberusMrX&color=blueviolet&style=for-the-badge&label=HITS)
 
 ---
 

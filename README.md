@@ -165,9 +165,9 @@ Sometimes a “simple” LFI or upload bug is just the first step. 😉
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=CerberusMrX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CerberusMrX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CerberusMrX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=CerberusMrXi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=CerberusMrXi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CerberusMrXi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### ✍️ Random Dev Quote

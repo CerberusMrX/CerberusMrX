@@ -7,7 +7,11 @@
   <span style="color: red; font-weight: bold;">BYEEEEE WORLD!!</span>
 </h1>
 
-I am **Sudeepa Wanigarathna**, also known as **CerberusMrXi**, an **Ethical hacker** and **CTF engineer** from **Sri Lanka** with a strong focus on **web and API security**. I design **story-driven CTF challenges** that simulate real-world attack paths, combining issues like misconfigurations, access control flaws, and logic bugs to teach both offensive and defensive perspectives. I regularly work with tools such as **Kali Linux, Burp Suite, nmap, ffuf, and Wireshark**, and I script in **Python, JavaScript, and Bash** to automate testing and build custom security tools. As a **Software Engineering student**, I’m passionate about turning complex security concepts into clear, hands-on labs that help others understand how attackers operate and how to properly secure modern systems.
+I am **Sudeepa Wanigarathna**, also known as **CerberusMrXi**, a **Founder of Serendibware and Yooperlanka**, an **Ethical Hacker**, and a **CTF Engineer** from **Sri Lanka**. I focus on **cybersecurity, software engineering, and AI-driven innovation**, creating projects that combine technology, creativity, and real-world solutions.
+
+I specialize in **web and API security**, penetration testing, and developing story-driven CTF challenges that simulate real-world vulnerabilities. I enjoy exploring security research, building innovative software solutions, and turning complex technical concepts into practical learning experiences.
+
+As a **Software Engineering student**, I am passionate about developing impactful products, exploring emerging technologies, and creating systems that solve real-world problems while helping others understand and improve digital security.
 
 ---
 
@@ -22,11 +26,12 @@ I am **Sudeepa Wanigarathna**, also known as **CerberusMrXi**, an **Ethical hack
 
 ## 👤 Quick Profile
 
-- 🇱🇰 Ethical hacker and cybersecurity enthusiast from **Sri Lanka**  
-- 🧩 **CTF Engineer at HashX** – designing realistic, story-based challenges  
-- 🛡 Active on platforms like **HackerOne**, focusing on web and API security  
-- 🎓 **Software Engineering undergraduate at NIBM**  
-- 🎯 Passionate about **offensive security**, **tool development**, and **teaching through CTFs**  
+🇱🇰 **Ethical Hacker and Cybersecurity enthusiast** from **Sri Lanka**<br>
+🧩 **CTF Engineer at HashX** – creating realistic, story-driven cybersecurity challenges<br>
+🛡 Focused on **web security, API security, and security research**<br>
+🎓 **Software Engineering and Cybersecurity undergraduate** at **NIBM**, affiliated with **Coventry University and University of Lincoln**<br>
+🚀 **Founder of Serendibware and Yooperlanka**, building innovative technology solutions<br>
+🎯 Passionate about **offensive security, software development, AI innovation, and sharing knowledge through CTFs**<br>
 
 I enjoy turning real-world attack paths into hands-on labs so others can learn how attackers think.
 
@@ -43,17 +48,6 @@ I enjoy turning real-world attack paths into hands-on labs so others can learn h
   - Banking & fraud detection simulations  
 
 Sometimes a “simple” LFI or upload bug is just the first step. 😉
-
----
-
-## 🛠 Cerberus Stack (My Projects)
-
-- 🟦 **Cerberus Blue** – advanced Bluetooth penetration testing toolkit  
-- 🕸 **Cerberus XSS** – XSS testing tool with crawling, payload injection & WAF bypass  
-- 🌐 **Cerberus SSRFExploit** – SSRF exploitation framework for cloud & internal targets  
-- 💳 **Cerberus CC Pro** – toolkit for card validation, BIN intelligence & fraud simulation  
-
-> I like building tools that I would actually use on real engagements or CTFs.
 
 ---
 <p align="center">
@@ -179,7 +173,6 @@ Sometimes a “simple” LFI or upload bug is just the first step. 😉
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 ---
 
